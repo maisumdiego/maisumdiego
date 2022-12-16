@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2B32B2,100:1488CC&section=header&height=180&text=Diego%20Ferreira&desc=Análise%20de%20dados%20e%20Business%20Intelligence&animation=fadeIn&fontColor=ffffff&fontSize=40&descSize=18&fontAlignY=28&descAlignY=47"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2B32B2,100:1488CC&section=header&height=180&text=Diego%20Ferreira&desc=Análise%20de%20dados%20e%20Business%20Intelligence&animation=fadeIn&fontColor=ffffff&fontSize=40&descSize=15&fontAlignY=28&descAlignY=47"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&size=25&pause=1800&color=32c951&center=true&vCenter=true&multiline=true&width=1300&height=40&lines=Ol%C3%A1,+mundo!+Seja+bem-vindo+ao+meu+reposit%C3%B3rio+no+GitHub+:])](https://git.io/typing-svg)
 
