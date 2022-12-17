@@ -37,4 +37,12 @@
 ![NumPy](https://img.shields.io/badge/numpy-545454.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-545454?style=for-the-badge&logo=html5&logoColor=white)
 
+##
+
+### Principais artigos
+
+1. [Projeto Dados Prouni: processo de ETL para o SQL Server utilizando Python](https://www.linkedin.com/pulse/projeto-dados-prouni-processo-de-etl-para-o-sqlserver-diego-ferreira/)
+2. [Análise das infrações registradas no Distrito Federal em 2021](https://www.linkedin.com/pulse/an%C3%A1lise-das-infra%C3%A7%C3%B5es-registradas-distrito-federal-em-diego-ferreira/)
+3. [Infrações cometidas no DF e correlações com o coeficiente de Pearson - O que é correlação?](https://www.linkedin.com/pulse/infra%C3%A7%C3%B5es-cometidas-df-e-correla%C3%A7%C3%B5es-com-o-de-pearson-diego-ferreira/)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2B32B2,100:1488CC&section=footer&height=120&animation=fadeIn&fontColor=ffffff&fontSize=40&descSize=15&fontAlignY=28&descAlignY=47"/>
