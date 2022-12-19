@@ -20,22 +20,22 @@
 ##
 
 ### Main skills
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-14354C?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-14354C.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-14354C?style=for-the-badge&logo=powerbi&logoColor=white)
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-14354C?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+[![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-14354C.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Power Bi](https://img.shields.io/badge/power_bi-14354C?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/pt-br/)
 
 ### Tools
-![Windows](https://img.shields.io/badge/Windows-14354C?style=for-the-badge&logo=windows&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-14354C.svg?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-14354C?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-14354C.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+[![Windows](https://img.shields.io/badge/Windows-14354C?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/?r=1)
+[![GitHub](https://img.shields.io/badge/github-14354C.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-14354C?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-14354C.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 ### Other Knowledge
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-545454.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-545454.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-545454.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-545454?style=for-the-badge&logo=html5&logoColor=white)
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-545454.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/br/products/photoshop.html)
+[![Pandas](https://img.shields.io/badge/pandas-545454.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-545454.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-545454?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 ##
 
